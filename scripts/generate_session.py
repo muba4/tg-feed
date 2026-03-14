@@ -36,13 +36,13 @@ async def main():
     session_string = client.session.save()
     await client.disconnect()
 
-    print("\n" + "=" * 60)
-    print("SUCCESS! Your session string (add as GitHub Secret):")
-    print("=" * 60)
-    print(session_string)
-    print("=" * 60)
-    print("\nSecret name: TELEGRAM_SESSION_STR")
-    print("Go to: GitHub repo → Settings → Secrets and variables → Actions → New repository secret")
+    #print("\n" + "=" * 60)
+    #print("SUCCESS! Your session string (add as GitHub Secret):")
+    #print("=" * 60)
+    #print(session_string)
+    #print("=" * 60)
+    #print("\nSecret name: TELEGRAM_SESSION_STR")
+    #print("Go to: GitHub repo → Settings → Secrets and variables → Actions → New repository secret")
 
 
 asyncio.run(main())
