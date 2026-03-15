@@ -65,15 +65,14 @@ jobs:
               session = client.session.save()
               await client.disconnect()
 
-              print(f"Вошёл как: {me.first_name} (@{getattr(me, 'username', 'нет')})")
-              print()
-              print("=" * 60)
-              print("TELEGRAM_SESSION_STR =", session)
-              print("=" * 60)
-              print()
-              print("Добавь в GitHub Secrets:")
-              print("Settings → Secrets and variables → Actions → New repository secret")
-              print("Name: TELEGRAM_SESSION_STR")
+              # Вместо print("TELEGRAM_SESSION_STR =", session)
+              # Записываем в файл в корне репозитория
+              with open("TELEGRAM_SESSION_STR.txt", "w", encoding="utf-8") as f:
+                  f.write(session)
+
+              print("Session string saved to TELEGRAM_SESSION_STR.txt")
+              print("Please copy it from the file in the repository root and add to GitHub Secrets.")
+              print("Then DELETE the file from the repository for security.")
 
           asyncio.run(main())
           EOF
