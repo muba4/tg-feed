@@ -5,7 +5,7 @@
       "text": "🌌🐾 КОСМОКОТИКИ, ВНИМАНИЕ! 🐾🌌\n\nВы всё ещё пишете SQL-запросы как в каменном веке?\n\nYii2 Active Record говорит: «Держи объекты, а не строки!» 💥\n\n😺 Класс = таблица\n😺 Объект = строка\n😺 Атрибут = столбец\n→ Просто как кофе по утрам! ☕\n\n🔥 А ещё:\n→ Поддерживает все базы: MySQL, PostgreSQL, MongoDB, Redis и даже Sphinx!\n→ Связи между таблицами — как диалог кота с астронавтом:\n$customer->orders — и вот уже массив заказов!\n→ Жизненные циклы — объекты рождаются, живут и умирают с событиями!\n→ Транзакции — чтобы ваши данные не потерялись в чёрной дыре!\n→ Оптимистическая блокировка — чтобы два кота не сохранили одно и то же!\n\n💡 Active Record — это не магия. Это наука.\n\nНо такая, что даже ваш кот сможет понять (если дать ему кофе).\n\n🔗 Узнайте, как превратить базу данных в объектную вселенную:\nhttps://mb4.ru/yii2-db/active-record.html",
       "text_html": "🌌🐾 КОСМОКОТИКИ, ВНИМАНИЕ! 🐾🌌<br><br>Вы всё ещё пишете SQL-запросы как в каменном веке?<br><br>Yii2 Active Record говорит: «Держи объекты, а не строки!» 💥<br><br>😺 Класс = таблица<br>😺 Объект = строка<br>😺 Атрибут = столбец<br>→ Просто как кофе по утрам! ☕<br><br>🔥 А ещё:<br>→ Поддерживает все базы: MySQL, PostgreSQL, MongoDB, Redis и даже Sphinx!<br>→ Связи между таблицами — как диалог кота с астронавтом:<br>$customer->orders — и вот уже массив заказов!<br>→ Жизненные циклы — объекты рождаются, живут и умирают с событиями!<br>→ Транзакции — чтобы ваши данные не потерялись в чёрной дыре!<br>→ Оптимистическая блокировка — чтобы два кота не сохранили одно и то же!<br><br>💡 Active Record — это не магия. Это наука.<br><br>Но такая, что даже ваш кот сможет понять (если дать ему кофе).<br><br>🔗 Узнайте, как превратить базу данных в объектную вселенную:<br><a href=\"https://mb4.ru/yii2-db/active-record.html\" target=\"_blank\" rel=\"noopener noreferrer\">https://mb4.ru/yii2-db/active-record.html</a>",
       "date": "2026-03-12T17:26:09+00:00",
-      "views": 3,
+      "views": 4,
       "forwards": 0,
       "photos": [
         "https://cdn4.telesco.pe/file/mVKNC7QIlnDJEcZDTe656kGydFWfYb5IbtOCK5yl_Uem9QTYJEPWy0NmnXQ5CJT7Yj733N3hPcsqfNW4ihYF_wH9g6PxriDotdUmpiIXwNCr2khiROMEyNF-oXc2vrI2LXG4JlIrTWwiw53s2LsjYxaw1fGDxo-WepNVW3GRUGSfiK_tLq_1K4SAlNoS2tH5S8GlKBspf_ZTjXw3LetzEOxEEZlpfIBNzY_Dy0kvtYc4_TL661MX-Z3kmqlePJx_46DzHvZsPliFhwF8OKVpIn7iRP6Xch_fZ2jyZJZ3KVwup77zshYUs6jSYbify5Ry9GIsMGY1MrjE_-AeFcGIzA.jpg"
@@ -1298,7 +1298,7 @@
       "views": 14,
       "forwards": 0,
       "photos": [
-        "https://cdn4.telesco.pe/file/Adc1_7jWFtYFtMZn2v52r4rIlFnL9Ga--BlYZ_18YuTP9BY_PQYb-GLxMSK_CEijXRdWGjb2kkU9gjbyjhh7T7xGtjRQFJKqbKpDJnk-35jWFhkDmOpVGwV8C9Rt1JaPTBnvzaGv2-OwfiXfpswNrs6sW6CnUedYOMrPlXQcGiQzOO6My-3oTe3A_cV8Dg2r1Zkujw5ebbBUoarXLCTLrlWKjpk6GxLZ0RRNSePS812diaWtFm1NmihFOmt0MXDC-kzK7ZAzmD0dzmdZSOnoGOG0Gw00f5pGztyujj9J57h48NOD9JObPDN4csaNo3gvLvaoQK0EbEijdAhKym6tSw.jpg"
+        "https://cdn4.telesco.pe/file/pcWSWglAZRGD3wi-EkokawzwBsKBd0I96SMta8aHTwinxn91GfQLa8Z6ur9den2ymShS98Ztmc_gCSdq5qSAcEgL4w3WJbr-9TUxe7NU9Q28EJzoCr43GtbdzlPUWoFTw7I9VT0vKq_lJZ8ZW-FiEigdocYTLLR5C-Ev7TYFdxxhC6egTGKk30xqA6ltBwE7E_ugT9TSNHb4mZl4tXSZOdNUbsjPQ6_3EVgFSwfncBxeuOPEbuRU-aUGlaBgALhskJ0IiyaN7uaSBObvWY2yvKylggLm5DqDOkZr8B_afncypJ9lQhfJQLhz5nwqwuSKdkmdhVyoeGDmreaIdXocnA.jpg"
       ],
       "video_path": null,
       "gif_path": null,
@@ -6219,7 +6219,7 @@
       "views": 13,
       "forwards": 0,
       "photos": [
-        "https://cdn4.telesco.pe/file/iLLNI47LhrbbJW00y-FRnaWr7E3JcCPbCSHOZ8rkFEAFkM8dweBKX8o1q5EaNVUlT2Q4nWuhol68F4iirM5OucywNJCtXPrHk2jUNRLn7NTomvtYuDz9JjCT44Yam8NFGa4-tYTzHjGOUeyO7EFSYoMHiHjGpe1jN3NflKQIsQrgS4VzMG7o1Eq3GvcImWt9UYxcDLbwvrQKmGmcfA5yXYDqKELXX3G17bjxenZEvAM1FSljIx6r1VRC1nBH1gLTrsP_2iapfSFh9-PX152ywEkD0rRgISEdp7HH7zf7no5EgLKw76pOkY3L21FSwyujXrKGOxDQBGDD5Uamisuusw.jpg"
+        "https://cdn4.telesco.pe/file/jxZDQgrnO1_5gniepblEW7HStlRNpXth2tx7X-gRiVwpMkuemp4Aubv_VimIrmmG__I7DUV0aMN90X4rz1nF9H2gpprrBFnT3tcZ4DPOBU49sjhfPln5I5K_LHBU8HXEmCIxqADpZrUQ98pWv6UbwQV2q_b3buxCykiiDkj4l2ABU6vMc2hbF3souZ-ECEN7oXsel-K-h7F9DATBgH-SdaDC6PzViumNDBT_57grJWpZG8Trjz0uK2-rC91rtLX8DCrLV9BiyhEMyeCfG0npG96YYYBtxof89dLQHKT3y0NhICzGOojyrHP5oIHX01Qebt7coEv6AsrPpSzJT2konA.jpg"
       ],
       "video_path": null,
       "gif_path": null,
@@ -9046,6 +9046,6 @@
       "comments_url": null
     }
   ],
-  "updated_at": "2026-03-15T16:33:02.595639+00:00",
+  "updated_at": "2026-03-15T19:31:19.437876+00:00",
   "channel": "mb4ru"
 }
