@@ -33,16 +33,8 @@ jobs:
               print()
               print(">>> Скопируй ЭТИ ДВЕ строки в Step 2 <<<")
               print()
-              # Вместо print, записываем в файлы
-              with open("PARTIAL_SESSION.txt", "w", encoding="utf-8") as f:
-                  f.write(session)
-              with open("PHONE_CODE_HASH.txt", "w", encoding="utf-8") as f:
-                  f.write(sent.phone_code_hash)
-
-              print("Partial session saved to PARTIAL_SESSION.txt")
-              print("Phone code hash saved to PHONE_CODE_HASH.txt")
-              print("Please copy them from the files in the repository root and use in Step 2.")
-              print("Then DELETE the files from the repository for security.")
+              print("partial_session =", session)
+              print("phone_code_hash =", sent.phone_code_hash)
               print()
               print(">>> Конец <<<")
           asyncio.run(main())
