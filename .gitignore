@@ -1,0 +1,5 @@
+.github/workflows/generate_session.yml
+.github/workflows/generate_session_step2.yml
+
+docs/data/posts.json
+docs/data/comments/
