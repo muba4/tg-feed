@@ -1,11 +1,26 @@
 {
   "posts": [
     {
+      "id": 767,
+      "text": "🌕⚠️ КОСМОКОТИКИ, ОСТОРОЖНО: ВАШЕ МЕСТОПОЛОЖЕНИЕ — НЕ СЕКРЕТ! ⚠️🐾\n\nВы думаете, что просто ставите геотег «у кофейни на углу»?\nНет. Вы — как маяк для всех, кто хочет знать: «Где сейчас кот с Лунной Базы?» 🗺️🐱\n\n😺 Хотите добавить или изменить место в уже опубликованном посте Instagram?\n→ Откройте пост → «Редактировать» → «Добавить место» → Готово!\n→ А ещё можно удалить геотег — если передумали быть маяком.\n\n🔥 Но помните:\n→ Чем точнее геолокация — тем проще вас найти.\n→ Не всем нужны ваши цветы… некоторым хочется кинуть камень.\n\n✅ Лучше перенесите активность туда, где всё легально и безопасно:\n→ VK Клипы и Stories\n→ Telegram-каналы с ботами для сторис\n→ Яндекс.Эфир и Zen\n→ Rutube и My World\n\nНе превращайте свою популярность в ловушку!\nЛучше быть известным — чем найденным.\n\n🔗 Как управлять геотегами (и стоит ли?):\nhttps://mb4.ru/social-network/instagram/1650-location-of-an-existing-instagram-post.html\n\n#КосмоКотики #ЛуннаяБаза #БезСлежки 🚀🐱🔒",
+      "text_html": "🌕⚠️ КОСМОКОТИКИ, ОСТОРОЖНО: ВАШЕ МЕСТОПОЛОЖЕНИЕ — НЕ СЕКРЕТ! ⚠️🐾<br><br>Вы думаете, что просто ставите геотег «у кофейни на углу»?<br>Нет. Вы — как маяк для всех, кто хочет знать: «Где сейчас кот с Лунной Базы?» 🗺️🐱<br><br>😺 Хотите добавить или изменить место в уже опубликованном посте Instagram?<br>→ Откройте пост → «Редактировать» → «Добавить место» → Готово!<br>→ А ещё можно удалить геотег — если передумали быть маяком.<br><br>🔥 Но помните:<br>→ Чем точнее геолокация — тем проще вас найти.<br>→ Не всем нужны ваши цветы… некоторым хочется кинуть камень.<br><br>✅ Лучше перенесите активность туда, где всё легально и безопасно:<br>→ VK Клипы и Stories<br>→ Telegram-каналы с ботами для сторис<br>→ Яндекс.Эфир и Zen<br>→ Rutube и My World<br><br>Не превращайте свою популярность в ловушку!<br>Лучше быть известным — чем найденным.<br><br>🔗 Как управлять геотегами (и стоит ли?):<br><a href=\"https://mb4.ru/social-network/instagram/1650-location-of-an-existing-instagram-post.html\" target=\"_blank\" rel=\"noopener noreferrer\">https://mb4.ru/social-network/instagram/1650-location-of-an-existing-instagram-post.html</a><br><br>#КосмоКотики #ЛуннаяБаза #БезСлежки 🚀🐱🔒",
+      "date": "2026-05-01T11:58:07+00:00",
+      "views": 2,
+      "forwards": 0,
+      "photos": [
+        "https://cdn4.telesco.pe/file/DDidnJwqda_lSaxthjbh6Ix178vGkyDO6If15CJBYj2nFIWKXckvOC5rz5Q-_flxAgOM-kw-gq1-0ypGoIns5lTTAm1TGFl-tH-iK22KdvB5VRl9X6vqCj6FsKupD9Uee8wX12pdr0JLwQYo6xQQeVitI_dzoW8_ouz9ZzJvsdHOlb4KtVAs6IP5MrLgpRTFLz6XoLTY6_QSRJ-Z-MBVBYFIDMRhiI21Nz7jfK3-a5W5eWvH3vBQIW962ANAtRTch4yuH0K1Bm_Y9LZKBIpOgTHsLoz6-NYy_noWm_H8dhBDa6bRdV7Dq88l-iyVma2HfdcRBJC0CRFCiPWG3hYtzw.jpg"
+      ],
+      "video_path": null,
+      "gif_path": null,
+      "has_video": false,
+      "comments_url": null
+    },
+    {
       "id": 766,
       "text": "😺🚀 КОСМОКОТИКИ, ВАША ЛУННАЯ РАЗРАБОТКА — НА СТАРТЕ! 🚀😺\n\nЗабудьте про «а вдруг сломается PHP» и «почему MySQL не запускается».\n\nLaravel Homestead — это готовая космическая станция с Nginx, PHP 5.6–8.0, MySQL, Redis, Mailhog, Xdebug и даже MinIO!\n\n😺 Хотите переключать версии PHP, как переключаете кофе на чай?\n→ Просто укажите php: \"7.4\" в Homestead.yaml — и сайт заработает на нужной версии!\n\n😺 Нужен MongoDB, Elasticsearch или Neo4j?\n→ Добавьте одну строчку в конфиг — и они уже ждут вас в виртуалке.\n\n😺 Хотите отлаживать код по шагам, как кот преследует лазерную точку?\n→ Xdebug уже включён! Просто подключите IDE — и вперёд.\n\n😺 А ещё:\n→ Blackfire и XHGui покажут, где ваш код тормозит — быстрее, чем кот убегает от ванны!\n\n🔥 Homestead — это не просто окружение.\nЭто ваш личный галактический док, где всё работает, ничего не ломается, а проекты взлетают сами.\n\n🔗 Узнайте, как за 10 минут развернуть идеальную среду для Laravel:\nhttps://mb4.ru/laravel8-getting-started-ru/homestead.html  🚀🐱💻",
       "text_html": "😺🚀 КОСМОКОТИКИ, ВАША ЛУННАЯ РАЗРАБОТКА — НА СТАРТЕ! 🚀😺<br><br>Забудьте про «а вдруг сломается PHP» и «почему MySQL не запускается».<br><br>Laravel Homestead — это готовая космическая станция с Nginx, PHP 5.6–8.0, MySQL, Redis, Mailhog, Xdebug и даже MinIO!<br><br>😺 Хотите переключать версии PHP, как переключаете кофе на чай?<br>→ Просто укажите php: \"7.4\" в Homestead.yaml — и сайт заработает на нужной версии!<br><br>😺 Нужен MongoDB, Elasticsearch или Neo4j?<br>→ Добавьте одну строчку в конфиг — и они уже ждут вас в виртуалке.<br><br>😺 Хотите отлаживать код по шагам, как кот преследует лазерную точку?<br>→ Xdebug уже включён! Просто подключите IDE — и вперёд.<br><br>😺 А ещё:<br>→ Blackfire и XHGui покажут, где ваш код тормозит — быстрее, чем кот убегает от ванны!<br><br>🔥 Homestead — это не просто окружение.<br>Это ваш личный галактический док, где всё работает, ничего не ломается, а проекты взлетают сами.<br><br>🔗 Узнайте, как за 10 минут развернуть идеальную среду для Laravel:<br><a href=\"https://mb4.ru/laravel8-getting-started-ru/homestead.html\" target=\"_blank\" rel=\"noopener noreferrer\">https://mb4.ru/laravel8-getting-started-ru/homestead.html</a>  🚀🐱💻",
       "date": "2026-04-23T13:40:12+00:00",
-      "views": 7,
+      "views": 9,
       "forwards": 0,
       "photos": [
         "https://cdn4.telesco.pe/file/Z2TCpX63q3HlWl6ZhmlARGbVpIQcrmPrWB4wPV-RwiAyaEba2J26_KYv81tx8YpMN43y7vURdONaQZ5IBVAMnEEveHBpdpA3c0EexsF9dX_3WO1H3ChlSiWWsj86hyAanCFg5YEDg8Hx9fuqQ9w_9kYmGAtlATDXXm5pkOomm7sPvVeNKDzng7xxxkKtpWElPTMZLMGgPfe9iRPCzVTg0r0OagYJSkvI8jS8RnT7GX86P1TlQA2PdsyQJy8y6w8sdspMfg6xBeiSckt6s2ORGdkumVYpfobA31IJCO7SrvZpK70-gtS3jCu2K1IKME6r3IuVrJLq3Y2fmSwHWl57LA.jpg"
@@ -20,7 +35,7 @@
       "text": "🙀💥 КОСМОКОТИКИ, ВАШ composer.json КРИЧИТ! 💥🙀\n\nВы написали >=2.* и думаете: «Ну, логично же — всё от версии 2 и выше!»\n\nНЕТ. Это как сказать: «Дай мне всех котов старше двух лет… но только из этого подъезда».\n\nА если кот из подъезда №3, но ему уже три года — брать или нет? 🤯\n😺 >=2 — «Всё от 2.0.0 и выше!»\n😺 2.* — «Только от 2.0.0 до 3.0.0!»\n\nА вот >=2.* — это логическая чёрная дыра, в которую проваливается ваш composer install с криком:❌ «Error: Invalid version constraint»\n💡 Решение простое:\n→ Хотите всё от 2.x? → Пишите ^2.0\n→ Хотите всё от 2.0 и выше, включая 3, 4, 100500? → Пишите >=2.0\n→ Но никогда не мешайте сравнение и шаблон!\nИначе ваша зависимость не установится, а ваш кот уйдёт на другую планету — туда, где версионирование логичное.\n\n🔗 Узнайте на Лунной Базе, как писать ограничения так, чтобы Composer не рычал:\n\n#КосмоКотики #Composer #PHP #Зависимости #Хаос #DevOps #Наука #Коты #Чёткость 🚀🐱💻",
       "text_html": "🙀💥 КОСМОКОТИКИ, ВАШ composer.json КРИЧИТ! 💥🙀<br><br>Вы написали >=2.* и думаете: «Ну, логично же — всё от версии 2 и выше!»<br><br>НЕТ. Это как сказать: «Дай мне всех котов старше двух лет… но только из этого подъезда».<br><br>А если кот из подъезда №3, но ему уже три года — брать или нет? 🤯<br>😺 >=2 — «Всё от 2.0.0 и выше!»<br>😺 2.* — «Только от 2.0.0 до 3.0.0!»<br><br>А вот >=2.* — это логическая чёрная дыра, в которую проваливается ваш composer install с криком:❌ «Error: Invalid version constraint»<br>💡 Решение простое:<br>→ Хотите всё от 2.x? → Пишите ^2.0<br>→ Хотите всё от 2.0 и выше, включая 3, 4, 100500? → Пишите >=2.0<br>→ Но никогда не мешайте сравнение и шаблон!<br>Иначе ваша зависимость не установится, а ваш кот уйдёт на другую планету — туда, где версионирование логичное.<br><br>🔗 <a href=\"https://mb4.ru/programms/programs-for-automation/composer/2081-why-are-version-constraints-combining-comparisons-and-wildcards-a-bad-idea-2.html\" target=\"_blank\" rel=\"noopener noreferrer\">Узнайте на Лунной Базе</a>, как писать ограничения так, чтобы Composer не рычал:<br><br>#КосмоКотики #Composer #PHP #Зависимости #Хаос #DevOps #Наука #Коты #Чёткость 🚀🐱💻",
       "date": "2026-04-16T15:01:36+00:00",
-      "views": 9,
+      "views": 10,
       "forwards": 0,
       "photos": [
         "https://cdn4.telesco.pe/file/EFZ-h9AaJ7n4IP1R8EIpcWctr3LIhh4Aa3MqpRhCW_803z2RRh2ROvpNLJSDhO3dEpq5sN5R6ND4SsqOVQb-_pqwHG8UVthJ4tyDoA1IwPFtEV7kj7OUS5ZfKNyArSBukhVWAbyIz_yQBawluyqg_StRjWdUqPQ8x2ZCkqDDqKrYGZOiC2gCllmpKPs7hBwCGe8FOmSL0nZ59DneB50AlLLx5RkQ_cDh8TVdadRdoS8eX6Cwf_QH4QzueXYrgMf1wpRkTX9qgfWR63eAxtFHVQMTxkX_AwXqCjVvLdajeQL6A3I7ySYrDZe23cqtact_poNGNTyFaWjVcJRM7s2bXA.jpg"
@@ -95,7 +110,7 @@
       "text": "🌌🐾 КОСМОКОТИКИ, ВНИМАНИЕ! 🐾🌌\n\nВы всё ещё пишете SQL-запросы как в каменном веке?\n\nYii2 Active Record говорит: «Держи объекты, а не строки!» 💥\n\n😺 Класс = таблица\n😺 Объект = строка\n😺 Атрибут = столбец\n→ Просто как кофе по утрам! ☕\n\n🔥 А ещё:\n→ Поддерживает все базы: MySQL, PostgreSQL, MongoDB, Redis и даже Sphinx!\n→ Связи между таблицами — как диалог кота с астронавтом:\n$customer->orders — и вот уже массив заказов!\n→ Жизненные циклы — объекты рождаются, живут и умирают с событиями!\n→ Транзакции — чтобы ваши данные не потерялись в чёрной дыре!\n→ Оптимистическая блокировка — чтобы два кота не сохранили одно и то же!\n\n💡 Active Record — это не магия. Это наука.\n\nНо такая, что даже ваш кот сможет понять (если дать ему кофе).\n\n🔗 Узнайте, как превратить базу данных в объектную вселенную:\nhttps://mb4.ru/yii2-db/active-record.html",
       "text_html": "🌌🐾 КОСМОКОТИКИ, ВНИМАНИЕ! 🐾🌌<br><br>Вы всё ещё пишете SQL-запросы как в каменном веке?<br><br>Yii2 Active Record говорит: «Держи объекты, а не строки!» 💥<br><br>😺 Класс = таблица<br>😺 Объект = строка<br>😺 Атрибут = столбец<br>→ Просто как кофе по утрам! ☕<br><br>🔥 А ещё:<br>→ Поддерживает все базы: MySQL, PostgreSQL, MongoDB, Redis и даже Sphinx!<br>→ Связи между таблицами — как диалог кота с астронавтом:<br>$customer->orders — и вот уже массив заказов!<br>→ Жизненные циклы — объекты рождаются, живут и умирают с событиями!<br>→ Транзакции — чтобы ваши данные не потерялись в чёрной дыре!<br>→ Оптимистическая блокировка — чтобы два кота не сохранили одно и то же!<br><br>💡 Active Record — это не магия. Это наука.<br><br>Но такая, что даже ваш кот сможет понять (если дать ему кофе).<br><br>🔗 Узнайте, как превратить базу данных в объектную вселенную:<br><a href=\"https://mb4.ru/yii2-db/active-record.html\" target=\"_blank\" rel=\"noopener noreferrer\">https://mb4.ru/yii2-db/active-record.html</a>",
       "date": "2026-03-12T17:26:09+00:00",
-      "views": 17,
+      "views": 18,
       "forwards": 0,
       "photos": [
         "https://cdn4.telesco.pe/file/ersHiQTBSxNOr1ZQVmGVmUtA-cW8osh5--tU7NmT53iYwMBbTMa8AkJnNNVOhlo8EmLTB4Msa6_QOfzcad-rPk3njaAnp4ufmb8SyQEDiTd3vYMaP1nybS6CWhhiZcohLUvIAZcFMQJAqv8Obr04sSSCu8GRU2W34Rtz1WlGDiRoxMXflFvUJlpWOaUFLUmylRBnYMkRrynfoxv9nhh7sEzP5lLi7iOoV1dOuFwNBpAxPOlVOBnNq80YyAZvuWRqsoArWdgpoR9RYBbiYm3bK0KG69xX039ahXzOrZud4HOIT79XCCcBGXqiTfaIFcQyWvcLtp_fILUuSFy5nssR-Q.jpg"
@@ -5080,7 +5095,7 @@
       "views": 9,
       "forwards": 0,
       "photos": [
-        "https://cdn4.telesco.pe/file/v2GR3M6MImHZxI9YcxHWO2poxMd3BT6GZ95Yr49jgFWTJ1fG964UfNWWMC9O3Z5ArwuVNe9y7_os4P17Aq1idCMnLQdvZ8XjuD3lS-sLj8Ylv4fW8_BcyVNzHCo2wkuW8QySLo7RGhOVWcjxU1uQzNw4wllmwwLNspmtQgwH19uYMxCoguS9aOIh_Hn9QY74egjtvW2KvNY7OWh74DISvC70IYl8wpzHDXNLzFSuTXUUvRhgAoEoQzZ7IJeCGrE-a2GToq3bTcN3bYwIbzoPOfWM40VdUjfdXA1dLG89OHoWdXt9XhxbOGJWACcYeb5DceUlaX2Zeo_ywfS1LPP0zw.jpg"
+        "https://cdn4.telesco.pe/file/qyuLm7_VtlxHXT9bD6CP1H7HTwFmUlR585q4-QFILA3JzLW626Onw6_HBXtzNJNrETG__YfiL05isEukNf8KeXDUdvbMzMGkRh6a469yJIpjv3Rr1FyNhrRYzGAUsKmDUwcMGmt6cuJPqsUJHoJI9jQXzqqsTxf6R_smoZ7WIi9OLOFQQH5QKjDMXW1jjfsdUhYvEMQLQ_s5B8SB5WcITNnSE3v5z5XTw--k0JSZFMaZ3jPsR7ljp_oqkmiune1Uc-fc3rZK4TKJeCbjScO5JEwrCATXyGBVpBGeZYUi76G-UbAEwJMEXsRfJhScXAau9_eUVP1PKQdI99-Aur49AQ.jpg"
       ],
       "video_path": null,
       "gif_path": null,
@@ -6474,7 +6489,7 @@
       "views": 23,
       "forwards": 0,
       "photos": [
-        "https://cdn4.telesco.pe/file/OBeFthbDkU9epzfm8Ek389brkolAo-06QguLgtXvPdgvB61Lf9aN18Lf_ZPgmj9eSgQwMZwtaDnKGlM3JpWp0ntS4bwNnNu5lZNzWTF_AHxD3lK8tYDUiJcTJ9T9l1yBwgs7-2wkEtT7Et7fJAfZBCvmiTC1TLcxJcZKhVuIrwC3d2SWlBhy0r0XM0xQs-e_ImtJ2Ks7k7mFKLfC5dW1PDricExqhltP4gsRcw76VSJ4Rl3pulbV26LW3g0kI_-cZLr1rdPjvWE3ctgx77D8ShJM6VmKwTYc3Qcj093D81z8VU_UjLfKHtBI4OExVj5uKPMgDfaRmHkrq258eyCKYA.jpg"
+        "https://cdn4.telesco.pe/file/ZFv7DzMEzsxG5pANLB4tJmRzMCiqpsddk2gsh1VyUpm2zo7uCvAOKJfGHdIKPhFynpTWtcRSC5gaCR-xnIdJVsSXWvQRRLPsw2eszT-limOmNNqvrAoyLJrtKrq-ZvcbjDPQnVhWz0wyB4MknMswK5KYL9ubsth7Y_lmtReQ8cDeBPMu74ocyswbuMQYO9QSpm9hat9Qm5RKiBidbRhIl3D6ZlLxrPxOe1jnI6G3jx9SEpY212Yr7Whe8TW6pTlYL_-aFNfpK6EMwOedKC_veOcKOUe59vLZqM91JjJusjnd009Y3e3rbAqCLYmTba9esGMxup50e2VHhm6kE_0ZsA.jpg"
       ],
       "video_path": null,
       "gif_path": null,
@@ -9136,6 +9151,6 @@
       "comments_url": null
     }
   ],
-  "updated_at": "2026-05-01T11:49:24.904517+00:00",
+  "updated_at": "2026-05-01T12:46:19.931788+00:00",
   "channel": "mb4ru"
 }
