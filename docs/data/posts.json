@@ -1,11 +1,26 @@
 {
   "posts": [
     {
+      "id": 770,
+      "text": "🌌🐾 КОСМОКОТИКИ, ВНИМАНИЕ! JoomShaper — это не шаблоны. Это космическая верфь для Joomla! 🐾🌌\n\nВы всё ещё думаете, что Joomla — это «тяжело» и «старо»?\nJoomShaper: «Держи Helix Ultimate, SP Page Builder и 130+ шаблонов под любую галактику!» 🚀\n\n😺 Helix Ultimate — не просто фреймворк. Это ателье для сайтов!\n\n🎨 Цвета, шрифты, макеты — всё визуально, с превью в реальном времени!\n\n😺 SP Page Builder — конструктор LEGO для взрослых:\n→ Слайдеры, формы, карточки — перетащил и готово!\n→ Генерирует чистый HTML, без мусора и тормозов!\n🏥\n\n😺 130+ шаблонов — от стоматологий до логистики:\n→ OnePage — для стартапов,\n→ Medicate — для клиник,\n→ Educon — для школ,\n→ Logistics — для тех, кто возит звёздную пыль! 🌠\n\n🔥 А ещё:\n— ваш сайт доступен всем, даже инопланетянам!\n→ Обновления годами — не как у тех, кто бросает проект после продажи.\n\n💡 \n\n\n🔗 Узнайте, как собрать корпоративный портал за пару часов — как настоящий космический инженер:\nhttps://mb4.ru/cms/joomla/joomshaper.html\n\n#КосмоКотики #ЛуннаяБаза 🚀🐱🛠️",
+      "text_html": "🌌🐾 КОСМОКОТИКИ, ВНИМАНИЕ! JoomShaper — это не шаблоны. Это космическая верфь для Joomla! 🐾🌌<br><br>Вы всё ещё думаете, что Joomla — это «тяжело» и «старо»?<br>JoomShaper: «Держи Helix Ultimate, SP Page Builder и 130+ шаблонов под любую галактику!» 🚀<br><br>😺 Helix Ultimate — не просто фреймворк. Это ателье для сайтов!<br><br>🎨 Цвета, шрифты, макеты — всё визуально, с превью в реальном времени!<br><br>😺 SP Page Builder — конструктор LEGO для взрослых:<br>→ Слайдеры, формы, карточки — перетащил и готово!<br>→ Генерирует чистый HTML, без мусора и тормозов!<br>🏥<br><br>😺 130+ шаблонов — от стоматологий до логистики:<br>→ OnePage — для стартапов,<br>→ Medicate — для клиник,<br>→ Educon — для школ,<br>→ Logistics — для тех, кто возит звёздную пыль! 🌠<br><br>🔥 А ещё:<br>— ваш сайт доступен всем, даже инопланетянам!<br>→ Обновления годами — не как у тех, кто бросает проект после продажи.<br><br>💡 <br><br><br>🔗 Узнайте, как собрать корпоративный портал за пару часов — как настоящий космический инженер:<br><a href=\"https://mb4.ru/cms/joomla/joomshaper.html\" target=\"_blank\" rel=\"noopener noreferrer\">https://mb4.ru/cms/joomla/joomshaper.html</a><br><br>#КосмоКотики #ЛуннаяБаза 🚀🐱🛠️",
+      "date": "2026-05-10T11:38:15+00:00",
+      "views": 1,
+      "forwards": 0,
+      "photos": [
+        "https://cdn4.telesco.pe/file/t5xSq3Kt7QpjBZGb0gyx_G1XVV-Iz9Qi8fyQ8d4nttOnfqJGzaRbQuJBsbTVvhM7jvjdTUavzxVvjzpLnDgeNhnYmNowvcrHfDNQeU_j_vTB1ElZ6KutdBpzHGor-tf8LFcCaW8OZRuEkKgVvt5n-fFzEostsT9UezL56gVQAvEe7Ie9fvS5kUxq0Au9ps6J9afPzw1l2m0vDK9bpA80qkDGupxz8f97CdjjP8VsoCnW6hxZyng6a9A3fSi-Oyl-dOaZHZR1LHS3t4gv5Gq4nqxCiyYtNQu1heVyiWkSZsvZbwkLEPomr_5VbEFIel2h8TaewVQze0K3SARCFI-M6g.jpg"
+      ],
+      "video_path": null,
+      "gif_path": null,
+      "has_video": false,
+      "comments_url": null
+    },
+    {
       "id": 769,
       "text": "🌌🐾 КОСМОКОТИКИ, ВНИМАНИЕ!  Composer потерял нюх и не узнаёт своих!🐾🌌\n\nВы добавили репозиторий в composer.json — а зависимости его не видят?\n\nНе паникуйте! Это не баг. Это защита от космического коллапса зависимостей! 💥\n\n😺 Composer НЕ загружает репозитории рекурсивно.\n\n→ Почему? Потому что иначе ваш composer install превратится в чёрную дыру, которая глотает секунды, минуты… часы! ⏳\n→ А ещё — разные версии пакетов могут ссылаться на один и тот же пакет из разных источников… и всё сломается, как карточный домик на Луне. 🃏🌕\n\n🔥 Пользовательские репозитории — не для продакшена!\n\n💡 Вывод:\nЕсли вы используете VCS-репозиторий — дублируйте его во всех composer.json, где он нужен.\n\nЭто не ошибка. Это космическая гигиена зависимостей!\n\n🔗 Узнайте, почему Composer так поступает — и как не улететь в бесконечный цикл установки:\n\nhttps://mb4.ru/programms/programs-for-automation/composer/2082-why-cant-composer-load-repositories-recursively.html\n\n#КосмоКотики #Composer #PHP  🚀🐱💻",
       "text_html": "🌌🐾 КОСМОКОТИКИ, ВНИМАНИЕ!  Composer потерял нюх и не узнаёт своих!🐾🌌<br><br>Вы добавили репозиторий в composer.json — а зависимости его не видят?<br><br>Не паникуйте! Это не баг. Это защита от космического коллапса зависимостей! 💥<br><br>😺 Composer НЕ загружает репозитории рекурсивно.<br><br>→ Почему? Потому что иначе ваш composer install превратится в чёрную дыру, которая глотает секунды, минуты… часы! ⏳<br>→ А ещё — разные версии пакетов могут ссылаться на один и тот же пакет из разных источников… и всё сломается, как карточный домик на Луне. 🃏🌕<br><br>🔥 Пользовательские репозитории — не для продакшена!<br><br>💡 Вывод:<br>Если вы используете VCS-репозиторий — дублируйте его во всех composer.json, где он нужен.<br><br>Это не ошибка. Это космическая гигиена зависимостей!<br><br>🔗 Узнайте, почему Composer так поступает — и как не улететь в бесконечный цикл установки:<br><br><a href=\"https://mb4.ru/programms/programs-for-automation/composer/2082-why-cant-composer-load-repositories-recursively.html\" target=\"_blank\" rel=\"noopener noreferrer\">https://mb4.ru/programms/programs-for-automation/composer/2082-why-cant-composer-load-repositories-recursively.html</a><br><br>#КосмоКотики #Composer #PHP  🚀🐱💻",
       "date": "2026-05-05T05:15:10+00:00",
-      "views": 4,
+      "views": 5,
       "forwards": 0,
       "photos": [
         "https://cdn4.telesco.pe/file/scFbF1ErQm9WXEeYokELmerYpzLU0reIBumO8QNqh4Bz0U9ke9kghSirBEEKcHlEwJbznVJu1B24nafMo5HSsCeqzWMm85mal1GeL1ZDiwQDTWVFN7mc9sfNuOLgw54Oj07tRdpYNcgpdRJg0dsBAfqZ4lLaETBlwr3ud7bWU_DvGgxWu2de9S2uN3j7NMTsCxFyBEUjaJWBC6Bps_UrGeqkexyZlJ4ulno9yU0lqMEgxI9Bn7V8VwB58F7_M_grHxGP3Rh2USr6SVpHHnTh9p6gjvD0NccAtdk8a2XOIqFHMlqRnhpR_DV9PYjlyYwQ2p8b5CIazy75BZ_vYkHlng.jpg"
@@ -20,7 +35,7 @@
       "text": "🌕🔧 КОСМОКОТИКИ НЕ СИДЯТ СЛОЖА ЛАПКИ! 🔧🐾\n\nНа Лунной Базе — революция в управлении цифрами!\n\nЗнакомьтесь: модуль «Игровые константы» — ваш личный пульт управления вселенной проекта 🎮✨\n\n😺 Раньше, чтобы изменить процент комиссии или множитель бонусов, нужно было:\n→ звать программиста,\n→ править код,\n→ тестировать,\n→ молиться, чтобы ничего не сломалось.\n\nТеперь?\n→ Заходите в админку.\n→ Меняете цифру.\n→ Сохраняете.\n→ И всё — система мгновенно применяет новое значение ВЕЗДЕ!\n\n🔥 Больше никаких устаревших значений в одном модуле и актуальных — в другом.\n🔥 Больше не нужно ждать деплоя, чтобы запустить акцию.\n🔥 Даже если что-то пойдёт не так — система подставит безопасные значения по умолчанию, и ваш космический корабль не рухнет!\n\n🚀 Всё работает со скоростью света:\n→ Значения кэшируются.\n→ Запросы обрабатываются за доли секунды.\n→ Сервер даже не чихнёт от нагрузки.\n\n💡 Это гибкость, надёжность и свобода!\n\n🔗 Следите за обновлениями в реальном времени:\nhttps://lb8.ru/\n\n#КосмоКотики #ЛуннаяБаза 🚀🐱💻",
       "text_html": "🌕🔧 КОСМОКОТИКИ НЕ СИДЯТ СЛОЖА ЛАПКИ! 🔧🐾<br><br>На Лунной Базе — революция в управлении цифрами!<br><br>Знакомьтесь: модуль «Игровые константы» — ваш личный пульт управления вселенной проекта 🎮✨<br><br>😺 Раньше, чтобы изменить процент комиссии или множитель бонусов, нужно было:<br>→ звать программиста,<br>→ править код,<br>→ тестировать,<br>→ молиться, чтобы ничего не сломалось.<br><br>Теперь?<br>→ Заходите в админку.<br>→ Меняете цифру.<br>→ Сохраняете.<br>→ И всё — система мгновенно применяет новое значение ВЕЗДЕ!<br><br>🔥 Больше никаких устаревших значений в одном модуле и актуальных — в другом.<br>🔥 Больше не нужно ждать деплоя, чтобы запустить акцию.<br>🔥 Даже если что-то пойдёт не так — система подставит безопасные значения по умолчанию, и ваш космический корабль не рухнет!<br><br>🚀 Всё работает со скоростью света:<br>→ Значения кэшируются.<br>→ Запросы обрабатываются за доли секунды.<br>→ Сервер даже не чихнёт от нагрузки.<br><br>💡 Это гибкость, надёжность и свобода!<br><br>🔗 Следите за обновлениями в реальном времени:<br><a href=\"https://lb8.ru/\" target=\"_blank\" rel=\"noopener noreferrer\">https://lb8.ru/</a><br><br>#КосмоКотики #ЛуннаяБаза 🚀🐱💻",
       "date": "2026-05-02T12:33:25+00:00",
-      "views": 7,
+      "views": 8,
       "forwards": 0,
       "photos": [
         "https://cdn4.telesco.pe/file/KSZl8gw2bjZYoRDWSLGHimEEHP_g2zHjLBc-ZwJdLycf1PPn-wYlSWPjZ2N2hE4tbvOBWmOPHqhngHBL3wGeVcPEdknxpyiZy5KK-NRC4oqq4FSD0rKFHEjBAqAe7QZEzty5RW6LDm4KThisJxOlvG1ag1pHiWYPq2cH1FVlx9YYaNfIh9MRI8NhluWVdsowSKWKgi24Ww6epSTX69V1Y_yEMq910kRE5p1iuwnE-2RpaQtmtpWJgA-LZ9JpJYuXfv348bd80bpkkrgT56gKFugGP9wyM7qRcZJkwGPOvORjF5RIxwcPKM-1239tx_tvwnnlaB89el-rCNtpSeKUKw.jpg"
@@ -9181,6 +9196,6 @@
       "comments_url": null
     }
   ],
-  "updated_at": "2026-05-10T10:42:48.959865+00:00",
+  "updated_at": "2026-05-10T11:39:21.140882+00:00",
   "channel": "mb4ru"
 }
